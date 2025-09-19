@@ -21,6 +21,12 @@ With over **9 years of experience** in software development, I specialize in des
 
 ---
 
+## 🎓 Certifications  
+
+- ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
