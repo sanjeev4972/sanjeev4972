@@ -41,7 +41,6 @@ With over **9 years of experience** in software development, I specialize in des
 
 ## 📈 GitHub Stats  
 
-![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeev4972&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev4972&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeev4972&theme=radical)  
 
@@ -55,16 +54,6 @@ With over **9 years of experience** in software development, I specialize in des
 
 ---
 
-## 📰 Latest Blog Posts  
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Scale .NET Microservices on Azure](#)  
-- [Mastering ReactJS Performance Optimization](#)  
-- [Top 10 GitHub Profile Tricks You Should Know](#)  
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📊 Profile Visitors  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanjeev4972&color=blue&style=flat)  
@@ -73,8 +62,8 @@ With over **9 years of experience** in software development, I specialize in des
 
 ## 📫 Connect With Me  
 
-- 📧 **Email:** yourname@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 🌐 [Portfolio](https://yourwebsite.com/)  
+- 📧 **Email:** sanjeev4972@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-mukhia-7493414b/) 
+- 🌐 [Portfolio](https://sanjeevmukhia.com/)  
 
 ⭐️ *Thanks for visiting my profile!*  
